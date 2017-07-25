@@ -1,0 +1,78 @@
+#add_item, #submit_btn {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50; /* Green */
+  width: 50px;
+  height: 30px;
+  transition-duration: 0.4s;
+  font-size: 14pt;
+}
+
+#submit_btn {
+  width: 150px;
+}
+
+#remove_item {
+  background-color: white;
+  color: black;
+  border: 2px solid red; /* Green */
+  width: 50px;
+  height: 30px;
+  transition-duration: 0.4s;
+  font-size: 14pt;
+}
+
+#add_item:hover, #submit_btn:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+#remove_item:hover {
+    background-color: red; /* Green */
+    color: white;
+}
+
+#check_details {
+  border: 3px solid red;
+  min-width: 600px;
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.item_name {
+  width: 300px;
+  height: 30px;
+  font-size: 14pt;
+  border: 2px solid red;
+  margin: 3px 1px 3px 0px;
+}
+
+.item_price {
+  width: 150px;
+  height: 30px;
+  font-size: 14pt;
+  border: 2px solid green;
+  margin: 3px 0px 3px 1px;
+}
+
+#tax_rate, #service_quality{
+  width: 150px;
+  height: 30px;
+  font-size: 14pt;
+  border: 2px solid blue;
+  margin: 3px 0px 3px 1px;
+  display: block;
+}
+
+#receipt {
+  border: 1px dashed black;
+  padding: 20px;
+  margin: 30px auto;
+  width: 50%;
+}
+
+#receipt_container {
+  margin: 20px;
+}

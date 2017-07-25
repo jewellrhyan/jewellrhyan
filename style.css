@@ -1,0 +1,56 @@
+h2{
+  color: silver;
+  font-size: 2em;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+h1{
+  font-size: 3em;
+  text-align: center;
+  background-color: white;
+  font-family: 'Abril Fatface', cursive;
+}
+#header img{
+  height: 6cm;
+  width: 6cm;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  display: block;
+  margin: auto;
+  width: 25%;
+  }
+#main img{
+  display:flex;
+  width: 500px;
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+#profiles{
+  font-size:22px;
+  text-align: center;
+  background-color: gray;
+  padding-bottom: 12px;
+}
+/*#background{
+  background-image: url("http://img00.deviantart.net/629c/i/2011/309/1/d/dark_blue_texture_by_carlbert-d4f8fa2.jpg");
+}
+#back{
+  background-image: url("http://www.godanswersprayersalf.com/wp-content/uploads/2016/04/bg-test-1.jpg");
+}
+#ground{
+  background-image: url("https://static.tumblr.com/fa1168dc8ff4df0526d0fc9707d5c9fb/xwd3bdd/5vYomcotc/tumblr_static_tumblr_static_d6zq8tkqlygos0s00w4o00gko_640.jpg");
+}*/
+#header{
+  text-align: center;
+  background-color: white;
+  padding: 5em;
+}
+p{
+  font-size: 22px;
+  background-color: white;
+  background-size: 2em;
+  text-indent: 1cm;
+  text-align:center;
+}
