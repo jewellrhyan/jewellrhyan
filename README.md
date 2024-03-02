@@ -4,11 +4,11 @@ I'm a passionate front-end developer focusing on creating intuitive and user-fri
 
 ## About Me
 
-🎓 Bachelor's degree in Computer Science with a specialization in Intelligent Systems from UC Irvine.
+🎓 Bachelor's degree in Computer Science with a specialization in Intelligent Systems from UC Irvine
 
-🌟 Skilled in responsive web design and cross-browser compatibility.
+🌟 Skilled in responsive web design and cross-browser compatibility
 
-🚀 Enthusiastic about exploring new technologies and implementing best practices in web development.
+🚀 Enthusiastic about exploring new technologies and implementing best practices in web development
 
 ## Skills Stack
 
